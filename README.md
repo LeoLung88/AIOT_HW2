@@ -3,6 +3,7 @@
 ## 專案簡介
 
 Kaggle : https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance/data
+
 本專案使用線性回歸模型預測學生的考試成績，採用 CRISP-DM (Cross-Industry Standard Process for Data Mining) 流程進行資料科學專案開發。專案目標是識別影響學生表現的關鍵因素，並建立準確的預測模型。
 
 ## 資料說明
