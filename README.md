@@ -2,8 +2,7 @@
 
 
 
-# NotebookLM 
----
+## NotebookLM 
 相關研究 : https://www.nature.com/articles/s41597-025-04913-0
 ### 報告摘要
 
