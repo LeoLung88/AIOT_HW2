@@ -2,9 +2,9 @@
 
 
 
-# NotebookLM
-相關研究 : https://www.nature.com/articles/s41597-025-04913-0
+# NotebookLM 
 ---
+相關研究 : https://www.nature.com/articles/s41597-025-04913-0
 ### 報告摘要
 
 #### 1. 研究目標與問題定義
